@@ -1,5 +1,9 @@
 # shop_app
 
+![Shop_App](https://user-images.githubusercontent.com/62777613/222980578-ccb3d61e-255f-4665-af89-fdaafa3ae402.PNG)
+
+This is the main application design
+
 A new Flutter project.
 
 ## Getting Started
